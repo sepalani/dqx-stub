@@ -34,7 +34,11 @@ prerequisites are met.
 
 By the way, I tried the replay attack on v1, v2 and v3 (disc versions) and they
 didn't work. The forwarder was adjusted to use the `--legacy` option but the
-game didn't accept the stub server replayed login sequence.
+game didn't accept the stub server replayed login sequence. Details regarding
+the tools I'm using and my workflow with Dolphin can be found in the
+[wiki](https://github.com/sepalani/MHTrIDA/wiki) of another project of mine.
+Some of my old DQX notes can be found on the repository's
+[wiki](https://github.com/sepalani/dqx-stub/wiki).
 
 ## Prerequisites
 ### Ultra-shortcut (using savestate)
